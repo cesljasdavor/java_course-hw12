@@ -1,0 +1,2 @@
+Ovo je jednostavna datoteka skinuta sa servera SmartHttpServer
+Autor datoteke i server je Davor Češljaš
